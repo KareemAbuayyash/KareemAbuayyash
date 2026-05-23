@@ -12,7 +12,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | 👁️ Sight | AI accessibility app for visually impaired users with OCR, scene description, navigation assistance, and voice interaction | Android, Kotlin, TensorFlow, YOLO, Python |
-| 📚 Fluento LMS | Full-stack Learning Management System with role-based access and RESTful APIs | React.js, Spring Boot, MySQL, JWT |
+| 📚 [Fluento LMS](https://github.com/KareemAbuayyash/LMS-Frontend) | Full-stack Learning Management System with role-based access and RESTful APIs | React.js, Spring Boot, MySQL, JWT |
 
 ---
 
@@ -50,14 +50,12 @@
 
 ## 📊 GitHub Stats
 
-![Kareem's GitHub stats](https://github-readme-stats.vercel.app/api?username=KareemAbuayyash&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KareemAbuayyash&layout=compact&theme=tokyonight)
-
 ---
 
 ## 📬 Connect with Me
 
 📧 Email: kareemabuayyash47@gmail.com  
 
-💼 LinkedIn: www.linkedin.com/in/kareem-abu-ayyash-55588a300
+💼 LinkedIn: www.linkedin.com/in/kareem-abuayash11
+
+
